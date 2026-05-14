@@ -10,7 +10,7 @@ This project builds a Python-based Bitcoin trading agent that:
 
 ## Important note
 
-This is a research and simulation tool. It cannot guarantee a 70%+ success rate in live markets.
+This is a research and simulation tool. It cannot guarantee a 70%+ success rate in live markets. But, I mean, give it a try.
 The code is set up to search for a strong historical configuration and report the real out-of-sample
 win rate from paper trading.
 
