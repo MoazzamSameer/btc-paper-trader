@@ -1,5 +1,5 @@
 # BTC Paper Trader
-
+Im kinda late to the party. Most people did this like 5 years ago. 
 This project builds a Python-based Bitcoin trading agent that:
 
 - downloads the last 10 years of BTC-USD data
